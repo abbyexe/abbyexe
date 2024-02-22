@@ -1,4 +1,4 @@
-# Konnichiwa! 👋
+# Greetings! 👋
 
 I'm Abhivandya Abhiram, a passionate Software Engineer with a focus on Java and Object-Oriented Programming. I love building innovative software solutions and contributing to exciting projects. 
 
